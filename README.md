@@ -3,7 +3,7 @@ home: true
 heroText: 禅房花木
 tagline: 你简单，世界就对你简单。
 # 设置首页样式图片
-# heroImage: /banner.jpg
+heroImage: https://blog.jdqiong.cn/banner/banner1.jpg
 heroImageStyle: {
   maxWidth: '100vw',
   width: '100vw',
