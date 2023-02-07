@@ -1,0 +1,74 @@
+---
+title: 烤鸭的做法
+date: 2019-08-08
+categories:
+ - 
+tags:
+ - 
+publish: true
+---
+<style scoped>
+  img {
+    width: 49%;
+    display: inline-block;
+  }
+</style>
+keys:
+ - '123456' md5
+---
+:::tip
+哈哈哈
+:::
+<!-- more -->
+表格
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
+### 分类
+杂谈、书影、分享、游记、好文、技术、生活、吉他、心情（候补）
+记录异想天开、记录观影阅读、记录分享相关技能（whatever）、记录旅游相关、记录技术相关、记录生活的感悟、记录吉他谱和视频录制、记录心情（候补）
+https://vuepress.vuejs.org/zh/guide/markdown.html
+https://vuepress-theme-reco.recoluan.com/views/1.x/syntax.html
+https://list.yinxiang.com/markdown/eef42447-db3f-48ee-827b-1bb34c03eb83.php
+
+### Markdown 插件
+vuepress-plugin-demo-block // 代码块，可以编译代码
+vuepress-plugin-tabs // tab页
+vuepress-plugin-flowchart // 流程图
+
+::: theorem 牛顿第一定律
+假若施加于某物体的外力为零，则该物体的运动速度不变。
+::: right
+来自 [维基百科](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B)
+:::
+
+::: tip
+This is a tip
+:::
+
+图片多，类似于旅游、记录生活以及导航栏记录使用50%，其他的都使用100%。
+
+公司ip 192.168.2.144
+
+替换友链图标的第三方链接 https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
+
+sticky: 文章排序
+
+源码修改过的地方：
+1、又拍云图标(Footer)
+<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="https://blog.jdqiong.cn/logo6.png"align="absmiddle" width="59px" height="30px" style="transform: translateY(-2px);"/></a><span style="margin:0;color:#3eaf7c;">提供加速服务</span>
+2、友链图标(FriendLink)
+https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
+3、首页banner(HomeBlog)
+`https://blog.jdqiong.cn/banner/banner${Math.ceil(Math.random() * 20)}.jpg`
+4、code样式（styles/code.styl）
+color lighten($textColor, 20%)（原）
+
+波浪网https://svgwave.in/
+
+又拍云操作员密码 hOSQpiRocZzS75Jzg2wq7AAg9v1fWMrq
+"src_dir": "C:\\Users\\Administrator\\Desktop\\ddshiyu.github.io\\public",
+
+⌈⌋
