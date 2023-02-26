@@ -25,6 +25,9 @@ module.exports = {
     ],
     [
       "script", {src: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/file/tongji.js'}
+    ],
+    [
+      "script", {src: 'https://cdn.jsdelivr.net/gh/ddshiyu/zredImage@master/youpiayunFile1.js', defer: 'defer'}
     ]
   ],
   "theme": "reco",
