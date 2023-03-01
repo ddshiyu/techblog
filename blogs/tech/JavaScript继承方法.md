@@ -11,7 +11,7 @@ publish: true
 不管是面试还是平常工作，js的继承都是逃脱不了的，它是JavaScript这门语言的核心所在，今天在总结手敲一下
 :::
 <!-- more -->
-先提供一个父类
+我们先提供一个父类
 ```javascript
 function Animal (name, weight) {
   this.name = name
